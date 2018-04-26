@@ -25,6 +25,7 @@ and open the template in the editor.
             <br>
             <br>
             <input type="submit" value="Ingresar" title="Ingresar" class="login-button">
+            
         </form>
     </body>
 </html>
